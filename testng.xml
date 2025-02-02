@@ -4,6 +4,7 @@
     <test verbose="2" preserve-order="true" name="C:/2025/Softwares/IntelliJWorkSpace/HelloWorld">
         <classes>
             <class name="HelloTest"></class>
+            <class name="StringDuplicateAndCountWithMapTest"></class>
         </classes>
     </test>
 </suite>
