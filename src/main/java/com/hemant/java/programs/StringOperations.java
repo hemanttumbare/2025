@@ -8,11 +8,11 @@ public class StringOperations {
         for(int i=str.length()-1;i>=0;i--){
             sb.append(str.charAt(i));
         }
-        System.out.println("Reversed String : " +sb.toString());
+        System.out.println("Reversed String : " +sb);
         sb = new StringBuilder(str);
         sb.reverse();
 
-        System.out.println("Reversed String : " +sb.toString());
+        System.out.println("Reversed String : " +sb);
 
     }
 
